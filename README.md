@@ -1,6 +1,4 @@
 ### James
-
-Web and mobile development, cloud and devops
 ---
 
 <!--
